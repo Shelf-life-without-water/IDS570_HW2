@@ -1,0 +1,3 @@
+doc_title,raw_positive,raw_negative,raw_net,tfidf_positive,tfidf_negative,tfidf_net,n_tokens
+Circle_of_Commerce,458,422,36,0.0086946057898119,0.0118312673722124,-0.0031366615824005,12596
+Free_Trade,339,277,62,0.0052008455979918,0.0078909381486772,-0.0026900925506854,7730
